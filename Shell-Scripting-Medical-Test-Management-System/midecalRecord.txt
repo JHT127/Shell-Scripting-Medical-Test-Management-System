@@ -1,0 +1,12 @@
+1300500: Hgb, 2024-03, 13.5, mg/dl, completed
+1234567: BGT, 4444-09, 55.5, ww/ee, completed
+1234567: BGT, 5555-01, 15.0, dd/dd, pending
+1234567: BGT, 5555-09, 15.0, gg, pending
+1234567: BGT, 5555-05, 15.0, hh, pending
+1234567: BGT, 5555-05, 15.5, gg, pending
+3456789: dd, 2024-01, 44.6, gg, pending
+2345678: dd, 4444-04, 45.6, gg, pending
+2345695: dd, 4444-04, 44.8, gg, pending
+1234567: BGT, 2024-07, 987.7, mm/ll, completed
+1234467: BGT, 2024-03, 75.5, mg/dl, pending
+1234567: BGT, 1111-11, 11.0, l, pending
